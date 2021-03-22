@@ -12,4 +12,4 @@
   - Anything!!! 😃
 - 🤔 I’m looking for help with ...
   - Understanding how to hosting web apps on remote servers works.
-- ⚡ Fun fact: 🏎️ Formula 1 fan 🏎️ favourite team is McLaren, favourite driver is Lando
+- ⚡ Fun fact: 🏎️ Formula 1 fan 🏎️ favourite team is McLaren, favourite driver is Lando Norris
