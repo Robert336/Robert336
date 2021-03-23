@@ -1,5 +1,4 @@
-### Hello! 👋
-
+### Hey!👋 Thanks for stopping by.
 
 
 - 🔭 I’m currently working on ...
