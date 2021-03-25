@@ -11,4 +11,4 @@
   - DevOps with Microsoft Azure
 - 👯 I’m looking to collaborate on ...
   - Anything!!! 😃
-- ⚡ Fun fact: 🏎️ Formula 1 fan 🏎️ favourite team is McLaren 🧡💙, favourite driver is Lando Norris 🏁
+- ⚡ Fun fact: 🏎️ Formula 1 fan 🏎️ my favourite team is McLaren 🧡💙, and favourite driver is Lando Norris 🏁
