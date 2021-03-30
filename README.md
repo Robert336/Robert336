@@ -9,6 +9,7 @@
   - C language (pls send help)
   - Web automation with Selenium and Python
   - DevOps and Microsoft Azure
+  - Data Structures
 - 👯 I’m looking to collaborate on ...
   - Anything!!! 😃
 - ⚡ Fun fact: 🏎️ Formula 1 fan 🏎️ my favourite team is McLaren 🧡💙, and favourite driver is Lando Norris 🏁
