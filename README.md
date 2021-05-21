@@ -3,7 +3,8 @@
 
 #### 🔭 I’m currently working on ...
   - 🤖 Athletics Centre Bot, which automates the competitive booking process for a gym session faster than everyone else. Made with Pythton, Selenium, HTML, CSS, and JSON.
-  - 🖌️ Frontend for the Laurier Computing Society's Internal website using React.js, Node,js, Javascript, HTML, CSS, and Figma for design.
+  - Linux and Operating Systems basics (using C)
+  - Learning React.js, Node.js, JavaScript
 #### 🌱 I’m currently learning ...
   - React.js, and Node.js
   - Microsoft Azure
