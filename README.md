@@ -6,7 +6,7 @@
 #### 🌱 I’m currently learning ...
   - React.js
   - JavaScript
-  - Linux and Operating Systems basics (using C)
+  - Linux and Operating Systems (using C)
 #### 👯 I’m looking to collaborate on ...
   - Anything!!! 😃
 #### ⚡ Fun fact: 🏎️ Formula 1 fan 🏎️ my favourite team is McLaren 🧡💙, and favourite driver is Lando Norris 🏁
