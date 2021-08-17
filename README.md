@@ -3,6 +3,7 @@
 
 #### 💻 I’m currently working on ...
   - [MuSpace](https://muspace.me), a social media centered on music. Using JavaScript, ReactJS, Firebase, HTML, and CSS
+  - [Reserv](https://github.com/Robert336/reserv-bot), a web app for automatically booking a spot at the gym at WLU
 #### 📖 I’m currently learning ...
   - React.js
   - JavaScript
