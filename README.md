@@ -9,7 +9,7 @@
 
 **Creating with:** ReactJS, Node.js, and Firebase Firestore, Hosting, Functions, Authentication, Pub/Sub.
 
-### Laurier Computing Society Website 
+### Laurier Computing Society Landing Page
 
 [Repository](https://github.com/LaurierCS/Website)
 
