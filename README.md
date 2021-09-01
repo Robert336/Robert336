@@ -3,7 +3,7 @@
 
 ## 💻 I’m currently working on:
 ### Reserv 
-[Repository](https://github.com/Robert336/reserv-bot) | [live site](https://www.reserv.ca)
+[live site](https://www.reserv.ca)
 
 **tldr:** SaaS web app for automatically booking a spot at the WLU Athletics Centre. 
 
