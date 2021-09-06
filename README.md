@@ -5,7 +5,7 @@
 ### Reserv 
 [live site](https://www.reserv.ca)
 
-**tldr:** SaaS web app for automatically booking a spot at the WLU Athletics Centre. 
+**tldr:** SaaS web app for automating the process of booking a session at the WLU Athletics Centre. 
 
 **Creating with:** ReactJS, Node.js, and Firebase Firestore, Hosting, Functions, Authentication, Pub/Sub.
 
