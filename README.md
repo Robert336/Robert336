@@ -3,7 +3,7 @@
 
 ## 💻 I’m currently working on:
 ### Reserv 
-[live site](https://www.reserv.ca)
+[Website](https://www.reserv.ca)
 
 **tldr:** SaaS web app for automating the process of booking a session at the WLU Athletics Centre. 
 
@@ -11,7 +11,7 @@
 
 ### Laurier Computing Society Landing Page
 
-[Repository](https://github.com/LaurierCS/Website)
+[Repository](https://github.com/LaurierCS/Website) | [Website](https://lcs-frontend.web.app)
 
 **Creating with:** ReactJS, Node.js, and Firebase Suite.
 
