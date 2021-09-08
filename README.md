@@ -11,7 +11,7 @@
 
 ### Laurier Computing Society Landing Page
 
-[Repository](https://github.com/LaurierCS/Website) | [Website](https://lcs-frontend.web.app)
+[Repository](https://github.com/LaurierCS/Website) | [Website](https://lcs-frontpage.web.app/)
 
 **Creating with:** ReactJS, Node.js, and Firebase Suite.
 
