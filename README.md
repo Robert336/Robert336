@@ -1,7 +1,7 @@
 # Hey!👋 Thanks for stopping by!
 
 
-## 💻 I’m currently working on:
+## 💻 Some of my past projects:
 ### Reserv | [Website](https://www.reserv.ca) 
 
 *Description: SaaS web app for automating the process of booking a session at the WLU Athletics Centre.*
