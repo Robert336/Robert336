@@ -10,9 +10,5 @@
 
 *Description: Frontpage for the largest club at Wilfrid Laurier University*
 
-### HawkHacks 2022 | [Website](https://hawkhacks.ca)
-
-*Description: New Hackathon set for 2022*
-
 
 ⚡ Fun fact: 🏎️ Formula 1 fan 🏎️ my favourite team is McLaren 🧡💙, and favourite driver is Lando Norris 🏁
