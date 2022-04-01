@@ -11,5 +11,5 @@
 *Description: Frontpage for the largest club at Wilfrid Laurier University*
 
 
-⚡ Fun fact: 🏎️ Formula 1 fan 🏎️ my favourite team is ~~McLaren 🧡💙~~ Scuderia 
+⚡ Fun fact: 🏎️ Formula 1 fan 🏎️ my favourite team is ~~McLaren~~ Scuderia 
 Ferrari
